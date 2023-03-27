@@ -1,4 +1,5 @@
-### Hi there 👋 its Harsh Vardhan Pandey
+### Hi there 👋 
+#### I am Harsh Vardhan Pandey. I am a tech enthusiast and a beginner in the world of programming.
 
 <!--
 **geekyharsh05/geekyharsh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
