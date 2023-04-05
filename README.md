@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Harsh Vardhan Pandey. I am a tech enthusiast and a beginner in the world of programming.
+### I am Harsh Vardhan Pandey, a tech enthusiast and a beginner in the world of programming.
 - 🌱 I’m currently learning Java.
 - 😄 Pronouns: he/him
 
