@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 ### I am Harsh Vardhan Pandey, a tech enthusiast and a beginner in the world of programming.
 - 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on good projects
 - 😄 Pronouns: he/him
 
 <!--
