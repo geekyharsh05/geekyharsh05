@@ -4,6 +4,12 @@
 - 👯 I’m looking to collaborate on good projects
 - 😄 Pronouns: he/him
 
+### Languages
+
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/geekyharsh05)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/geekyharsh05)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/geekyharsh05)
+
 <!--
 **geekyharsh05/geekyharsh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
