@@ -8,6 +8,12 @@
 - 😄 Pronouns: he/him
 
 
+<p align="left"> 
+  <h3>Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/geekyharsh05/count.svg" />
+</p>
+
+
 ### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -15,10 +21,6 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/geekyharsh05)
 
-<p align="left"> 
-  <h3>Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/geekyharsh05/count.svg" />
-</p>
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <!-- <p align="center">
