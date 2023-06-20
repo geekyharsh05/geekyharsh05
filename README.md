@@ -16,7 +16,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/geekyharsh05)
 
 <p align="left"> 
-  Visitor count<br>
+  <h3>Visitor Count</h3>
   <img src="https://profile-counter.glitch.me/geekyharsh05/count.svg" />
 </p>
 
