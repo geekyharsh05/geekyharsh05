@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/geekyharsh05)
+
 
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
