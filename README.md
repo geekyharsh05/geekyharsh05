@@ -3,7 +3,7 @@
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
 ### I'm a tech enthusiast and a beginner in the world of programming.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on good projects
 - 😄 Pronouns: he/him
 
