@@ -4,6 +4,7 @@
 
 ### I'm a tech enthusiast who works with Javascript.
 - 🌱 I’m currently learning Node.js.
+- 🔭 I’m currently working on backend projects.
 - 👯 I’m looking to collaborate on good projects
 - 😄 Pronouns: he/him
 
