@@ -3,7 +3,7 @@
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
 ### I'm a tech enthusiast who works with Javascript.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning nest.js.
 - 🔭 I’m currently working on backend projects.
 - 👯 I’m looking to collaborate on good projects
 - 📫 How to reach me: msg.theharsh@gmail.com
