@@ -8,6 +8,10 @@
 - 👯 I’m looking to collaborate on good projects
 - 📫 How to reach me: msg.theharsh@gmail.com
 - 😄 Pronouns: he/him
+  
+```yaml
+quote: The human race is filled with passion!
+```
 
 ## Languages
 
