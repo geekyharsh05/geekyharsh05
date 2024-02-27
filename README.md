@@ -11,11 +11,11 @@
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,dart)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ## Technologies & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,flutter,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,docker)](https://skillicons.dev)
 
 
 
