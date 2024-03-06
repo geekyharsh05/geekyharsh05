@@ -15,7 +15,7 @@
 
 ## Technologies & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,react,tailwindcss,postgres)](https://skillicons.dev)
 
 
 
