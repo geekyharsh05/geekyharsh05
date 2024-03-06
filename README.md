@@ -15,11 +15,11 @@
 
 ## Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=express,react,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,tailwindcss)](https://skillicons.dev)
 
-## Databases
+## Databases & ORMs
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)
 
 ## Tools
 
