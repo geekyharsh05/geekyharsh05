@@ -13,11 +13,17 @@
 
 [![Languages](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
-## Technologies & Frameworks
+## Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,react,tailwindcss,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,react,tailwindcss)](https://skillicons.dev)
 
+## Databases
 
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker)](https://skillicons.dev)
 
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
