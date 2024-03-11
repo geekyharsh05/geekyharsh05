@@ -23,7 +23,7 @@
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,aws,nginx)](https://skillicons.dev)
 
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
