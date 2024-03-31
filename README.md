@@ -9,6 +9,18 @@
 - 📫 How to reach me: msg.theharsh@gmail.com
 - 😄 Pronouns: he/him
 
+
+<h2>GitHub Stats</h2>
+<details>
+<summary> 
+My Github Stats
+</summary>
+
+![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username=geekyharsh05&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+
+</details>
+
 ## Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,java)](https://skillicons.dev)
