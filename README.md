@@ -35,7 +35,7 @@ My Github Stats
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,aws,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,aws,nginx,supabase)](https://skillicons.dev)
 
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
