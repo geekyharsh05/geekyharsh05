@@ -27,8 +27,8 @@ My Github Stats
 
 ## Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,tailwindcss)](https://skillicons.dev)
-<img src="https://go-skill-icons.vercel.app/api/icons?i=hono" />
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,react,tailwindcss,hono)](https://skillicons.dev)
+
 
 ## Databases & ORMs
 
