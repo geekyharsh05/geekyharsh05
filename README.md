@@ -32,7 +32,7 @@ My Github Stats
 
 ## Databases & ORMs
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma)](https://skillicons.dev)
 
 ## Tools
 
