@@ -4,7 +4,7 @@
 
 ### I'm a tech enthusiast who works with Javascript.
 - 🌱 I’m currently learning next.js.
-- 🔭 I’m currently working on backend projects.
+- 🔭 I’m currently working on full stack projects.
 - 👯 I’m looking to collaborate on good projects
 - 📫 How to reach me: msg.theharsh@gmail.com
 - 😄 Pronouns: he/him
