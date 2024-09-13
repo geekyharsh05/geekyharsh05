@@ -1,9 +1,9 @@
-![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Namaste!+I'm+Harsh+Vardhan+Pandey;Welcome+To+My+GitHub+Profile;)
-<!-- Coding GIF image -->
-<img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
+<h1>Hi 👋</h1>
+<h2>I'm Harsh Vardhan Pandey</h2>
 
-### I'm a tech enthusiast who works with Javascript.
-- 📫 How to reach me: msg.theharsh@gmail.com
+<h4 >
+  I am a passionate backend-developer, and a bit into devops.
+</h4>
 
 <h2>GitHub Stats</h2>
 <details>
