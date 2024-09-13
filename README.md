@@ -3,12 +3,7 @@
 <img align="right" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
 
 ### I'm a tech enthusiast who works with Javascript.
-- 🌱 I’m currently learning next.js.
-- 🔭 I’m currently working on full stack projects.
-- 👯 I’m looking to collaborate on good projects
 - 📫 How to reach me: msg.theharsh@gmail.com
-- 😄 Pronouns: he/him
-
 
 <h2>GitHub Stats</h2>
 <details>
