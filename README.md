@@ -18,7 +18,7 @@ My Github Stats
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,java,python,go)](https://skillicons.dev)
 
 ## Frameworks
 
