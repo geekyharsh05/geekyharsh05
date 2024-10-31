@@ -1,9 +1,3 @@
-<h1>Hi 👋</h1>
-<h2>I'm Harsh Vardhan Pandey</h2>
-
-<h4 >
-  I'm a passionate backend-developer, and a bit into devops.
-</h4>
 
 <h2>GitHub Stats</h2>
 
