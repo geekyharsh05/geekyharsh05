@@ -1,7 +1,6 @@
 
 <h2>GitHub Stats</h2>
 
-## ![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username=geekyharsh05&show=reviews,prs_merged,prs_merged_percentage,icons=true&hide_title=true&count_private=true&theme=dark)
 
 
 ## Languages
