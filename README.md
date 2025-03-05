@@ -1,8 +1,3 @@
-
-<h2>GitHub Stats</h2>
-
-
-
 ## Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
