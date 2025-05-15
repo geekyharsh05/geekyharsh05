@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=geekyharsh05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+
 ## Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
