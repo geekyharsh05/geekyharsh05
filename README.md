@@ -1,6 +1,22 @@
 <img src="https://github-readme-stats.vercel.app/api?username=geekyharsh05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
 
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,go,bash)](https://skillicons.dev)
+
+## Frameworks
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=express,react,next,tailwindcss,hono,fastapi,flask)](https://skillicons.dev)
+
+
+## Databases & ORMs
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma)](https://skillicons.dev)
+
+## Tools
+
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,docker,kubernetes,nginx,githubactions,argocd)](https://skillicons.dev)
 
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
