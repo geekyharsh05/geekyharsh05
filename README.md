@@ -12,7 +12,7 @@
 
 ## Databases & ORMs
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma,dynamodb)](https://skillicons.dev)
 
 ## Tools
 
