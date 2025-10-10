@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=geekyharsh05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
 
-## Languages
+<!-- ## Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,go,bash)](https://skillicons.dev)
 
@@ -17,7 +17,7 @@
 ## Tools
 
 [![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,docker,kubernetes,nginx,githubactions,argocd)](https://skillicons.dev)
-
+-->
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <!-- <p align="center">
