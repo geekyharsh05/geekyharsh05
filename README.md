@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=geekyharsh05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
+<img src="https://github-readme-stats-virid-nu-88.vercel.app/api?username=geekyharsh05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
 
 <!-- ## Languages
