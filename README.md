@@ -1,3 +1,5 @@
+I'm Harsh, a software engineer. I'm passionate about web development, open-source, and building communities.
+
 <!-- <img src="https://github-readme-stats-virid-nu-88.vercel.app/api?username=geekyharsh05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /> -->
 
 
